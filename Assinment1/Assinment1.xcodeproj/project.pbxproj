@@ -15,6 +15,8 @@
 		002B5E98270D2D4700FF39A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 002B5E96270D2D4700FF39A3 /* LaunchScreen.storyboard */; };
 		002B5EA2270D435800FF39A3 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002B5EA1270D435800FF39A3 /* LoginViewController.swift */; };
 		002B5EA4270D439F00FF39A3 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 002B5EA3270D439F00FF39A3 /* SignUpViewController.swift */; };
+		00C168AE270EA5060093A8D6 /* toLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C168AD270EA5060093A8D6 /* toLoginViewController.swift */; };
+		00C168B0270EB7300093A8D6 /* toSigninViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C168AF270EB7300093A8D6 /* toSigninViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		002B5E99270D2D4700FF39A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		002B5EA1270D435800FF39A3 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		002B5EA3270D439F00FF39A3 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		00C168AD270EA5060093A8D6 /* toLoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toLoginViewController.swift; sourceTree = "<group>"; };
+		00C168AF270EB7300093A8D6 /* toSigninViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toSigninViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,8 @@
 				002B5E8D270D2D4500FF39A3 /* SceneDelegate.swift */,
 				002B5E8F270D2D4500FF39A3 /* ViewController.swift */,
 				002B5E91270D2D4500FF39A3 /* Main.storyboard */,
+				00C168AF270EB7300093A8D6 /* toSigninViewController.swift */,
+				00C168AD270EA5060093A8D6 /* toLoginViewController.swift */,
 				002B5EA3270D439F00FF39A3 /* SignUpViewController.swift */,
 				002B5EA1270D435800FF39A3 /* LoginViewController.swift */,
 				002B5E94270D2D4700FF39A3 /* Assets.xcassets */,
@@ -147,7 +153,9 @@
 				002B5EA2270D435800FF39A3 /* LoginViewController.swift in Sources */,
 				002B5E90270D2D4500FF39A3 /* ViewController.swift in Sources */,
 				002B5E8C270D2D4500FF39A3 /* AppDelegate.swift in Sources */,
+				00C168AE270EA5060093A8D6 /* toLoginViewController.swift in Sources */,
 				002B5E8E270D2D4500FF39A3 /* SceneDelegate.swift in Sources */,
+				00C168B0270EB7300093A8D6 /* toSigninViewController.swift in Sources */,
 				002B5EA4270D439F00FF39A3 /* SignUpViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
