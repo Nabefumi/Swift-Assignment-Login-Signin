@@ -20,15 +20,6 @@ class ViewController: UIViewController {
         signUpButton.layer.cornerRadius = 10.8
 
     }
-    
-    @IBAction func login(_ sender: Any) {
-        self.performSegue(withIdentifier: "loginSegue", sender: self)
-    }
-    
-    @IBAction func signin(_ sender: Any) {
-        self.performSegue(withIdentifier: "signupSegue", sender: self)
-    }
-    
 
 }
 
